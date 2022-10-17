@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn coding and problem solving
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to get a guy also learing DSA for peer programming
-- 📫 How to reach me ...
+- 📫 How to reach me : gmail id :  mahour7324@gmail.com
 
 <!---
 mahour7324/mahour7324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
