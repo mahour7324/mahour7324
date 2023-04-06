@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahour7324
 - 👀 I’m interested in learn coding and problem solving
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to get a guy also learing DSA for peer programming
+- 💞️ upcoming SDE
 - 📫 How to reach me : gmail id :  mahour7324@gmail.com
 
 <!---
